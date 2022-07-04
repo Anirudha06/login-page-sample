@@ -1,0 +1,47 @@
+.container{
+    text-align: center;
+}
+body{
+    background-color: orange;
+}
+.btn1{
+    /* width: 75%; */
+}
+#pwd{
+    margin-left: 28px;
+}
+#passWord{
+    margin: 20px;
+    margin-left: 5px;
+    padding: 10px auto;
+}
+#submitBtn{
+     margin: 10px;
+     color: black;
+     background-color: orange;
+     padding: 6px;
+     font-weight: bold;
+     /* border: medium; */
+     border-color: black;
+     size: 30px;
+     border-width: thin;
+     border-color: lightgreen black black lightgreen;
+     
+}
+p{
+    font-weight: bold;
+    color: blue;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
